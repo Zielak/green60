@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "keyswitches")(type "KiCad")(uri "/Users/darek/Documents/KiCad/libraries/keyswitches.pretty")(options "")(descr ""))
+)

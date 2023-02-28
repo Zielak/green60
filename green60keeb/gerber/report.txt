@@ -1,0 +1,22 @@
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-F_Cu.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-B_Cu.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-F_Paste.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-B_Paste.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-F_Silkscreen.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-B_Silkscreen.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-F_Mask.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-B_Mask.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/green60-test2-Edge_Cuts.gbr'.
+Utworzono plik zadań Gerber '/Users/darek/dev/green60keeb/green60-test2-job.gbrjob'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-F_Cu.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-B_Cu.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-F_Paste.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-B_Paste.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-F_Silkscreen.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-B_Silkscreen.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-F_Mask.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-B_Mask.gbr'.
+Narysowano w '/Users/darek/dev/green60keeb/gerber/green60-test2-Edge_Cuts.gbr'.
+Utworzono plik zadań Gerber '/Users/darek/dev/green60keeb/gerber/green60-test2-job.gbrjob'.
+Informacja: Gotowe.
+Informacja: Gotowe.

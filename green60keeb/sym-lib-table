@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "diode-choc")(type "KiCad")(uri "${KIPRJMOD}/libs/choc/diode-choc.kicad_sym")(options "")(descr ""))
+)

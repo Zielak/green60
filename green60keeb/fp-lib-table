@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pg1350")(type "KiCad")(uri "${KIPRJMOD}/libs/choc/pg1350.pretty")(options "")(descr ""))
+)
